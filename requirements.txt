@@ -4,3 +4,4 @@ autogen-ext
 dotenv
 openai
 tiktoken
+ipykernel
