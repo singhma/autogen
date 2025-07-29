@@ -5,3 +5,4 @@ dotenv
 openai
 tiktoken
 ipykernel
+requests
